@@ -53,3 +53,15 @@ Basado en los hallazgos, se proponen tres estrategias de negocio:
 **3. Maximizar Valor y Captura de Datos (Enfoque en Clúster 2 y 4):**
 * **Acción:** Promocionar "Paquetes de Bienestar" (membresía + servicios adicionales) al Clúster 2, ya que son los más rentables y propensos a comprar.
 * **Acción:** Ofrecer un incentivo inmediato (ej. un cupón de cafetería) a los clientes del Clúster 4 a cambio de proporcionar o actualizar su número de teléfono, para poder incluirlos en las campañas de retención.
+
+* ---
+## 📂 Cómo Ejecutar este Proyecto
+
+El análisis completo, desde la limpieza de datos hasta el modelado y la clusterización, se encuentra en el Jupyter Notebook principal.
+
+1.  Clona este repositorio:
+    ```bash
+    git clone [https://github.com/VictorVM-03/Model-Fitness-Churn-Prediction.git](https://github.com/VictorVM-03/Model-Fitness-Churn-Prediction.git)
+    ```
+2.  Navega a la carpeta del proyecto.
+3.  Abre el archivo `.ipynb` (ej. `Sprint_13.ipynb`) usando Jupyter Notebook o Jupyter Lab.
